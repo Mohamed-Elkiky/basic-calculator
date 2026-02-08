@@ -1,0 +1,9 @@
+# Contributing
+
+Thanks for your interest in contributing.
+
+## Setup
+1. Clone the repo
+2. Run:
+   ```bash
+   python main.py

@@ -1,0 +1,8 @@
+---
+description: Do not add Cursor or any AI as author/co-author in this repo
+globs:
+alwaysApply: true
+---
+
+- Never add "Co-authored-by:", "Author:", or any attribution to Cursor, AI, or similar in commits, README, LICENSE, or other repo files.
+- Commit messages must not include Co-authored-by lines for Cursor or any agent.
